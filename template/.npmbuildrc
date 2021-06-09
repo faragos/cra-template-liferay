@@ -1,0 +1,20 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "C:\\DEV\\server\\liferay-ce-portal-tomcat-7.3.6-ga7-20210301155526191\\liferay-ce-portal-7.3.6-ga7",
+	"webpack": {
+		"rules": [
+			{
+				"test": ["src\\\\.*\\.ts$","src\\\\.*\\.tsx$","src\\\\.*\\.jsx$","src\\\\.*\\.js$"],
+				"use": "ts-loader"
+			}
+		],
+		"extensions": [
+			".ts",
+			".js",
+			".tsx",
+			".jsx"
+		],
+		"mainModule": "index.ts"
+	}
+}

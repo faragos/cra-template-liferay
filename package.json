@@ -1,0 +1,19 @@
+{
+  "name": "@clavis/cra-template-liferay",
+  "version": "0.0.1",
+  "description": "This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faragos/cra-template-liferay.git"
+  },
+  "author": "Marco Endres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faragos/cra-template-liferay/issues"
+  },
+  "homepage": "https://github.com/faragos/cra-template-liferay#readme"
+}
